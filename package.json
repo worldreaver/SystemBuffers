@@ -2,7 +2,7 @@
   "name": "com.worldreaver.systembuffers",
   "displayName": "SystemBuffers",
   "description": "Provides resource pooling of any type for performance-critical applications that allocate and deallocate objects frequently.",
-  "version": "4.5.0",
+  "version": "1.0.0",
   "unity": "2018.3",
   "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
   "license": "MIT",
